@@ -1,1 +1,3 @@
-# estatisti
+# estatistia
+
+## Calculo de Media - Aritmética
